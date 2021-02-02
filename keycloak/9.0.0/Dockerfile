@@ -1,2 +1,2 @@
-FROM jboss/keycloak:9.0.0
+FROM jboss/keycloak:4.6.0.Final
 MAINTAINER willkiy <willkiy@163.com>
